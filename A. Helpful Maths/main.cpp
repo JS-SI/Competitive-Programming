@@ -12,9 +12,9 @@ public class Main
     Scanner sc = new Scanner(System.in);
     double pai = 3.14;
         /* get the option from user */
-        // System.out.printf("1. Surface Area of cylinder ");
-        // System.out.printf("2. Volumn  Area of Cylinder");
-        // System.out.printf("3. Exit\n");
+        System.out.printf("1. Surface Area of cylinder ");
+        System.out.printf("2. Volumn  Area of Cylinder");
+        System.out.printf("3. Exit\n");
 
         System.out.println("Enter your choice:");
         int ch = nextInt();
